@@ -1,4 +1,4 @@
-# Hi, I'm Ariel 👋
+# Hi, I'm Ariel Alejandro 👋
 
 🤖 AI & Solutions Architect | 🚀 Automation Enthusiast
 

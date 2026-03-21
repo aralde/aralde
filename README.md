@@ -28,6 +28,7 @@ I'm a Fullstack Developer and AI Enthusiast, passionate about building efficient
 | [**PurePrompts**](https://github.com/aralde/PurePrompts) | A curated community gallery designed to help you extract the absolute best out of LLMs and generative AI. |
 | [**WhisperHook**](https://github.com/aralde/WhisperHook) | Dictate 100% Local & privacy-focused voice typing powered by local AI. |
 | [**TryModels**](https://github.com/aralde/TryModels) | Community-first directory and API designed to bridge the gap between developers and free AI resources. |
+| [**AI-102 Study Guide**](https://github.com/aralde/AI-102-Azure-AI-Engineer-Associate-Study-Guide) | Comprehensive guide for Azure AI Engineer certification. |
 
 ---
 

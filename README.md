@@ -11,8 +11,6 @@ I'm a Fullstack Developer and AI Enthusiast, passionate about building efficient
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -24,20 +22,12 @@ I'm a Fullstack Developer and AI Enthusiast, passionate about building efficient
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [**PowerToys**](https://github.com/aralde/PowerToys) | Windows system utilities to maximize productivity. | `C#` `C++` |
-| [**AI-102 Study Guide**](https://github.com/aralde/AI-102-Process-Automation-with-Azure) | Comprehensive guide for Azure AI Engineer certification. | `Azure` `AI` |
-| [**MyPortfolio**](https://github.com/aralde/arieldeibe) | Personal site and showcase. | `React` `JS` |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aralde&show_icons=true&theme=tokyonight" alt="Aralde's GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralde&layout=compact&theme=tokyonight" alt="Top Langs" height="150">
-</p>
+| Project | Description |
+| :--- | :--- |
+| [**Tactio**](https://github.com/aralde/Tactio) | A powerful productivity utility designed to bring multiple LLMs directly into your workflow. |
+| [**PurePrompts**](https://github.com/aralde/PurePrompts) | A curated community gallery designed to help you extract the absolute best out of LLMs and generative AI. |
+| [**WhisperHook**](https://github.com/aralde/WhisperHook) | Dictate 100% Local & privacy-focused voice typing powered by local AI. |
+| [**TryModels**](https://github.com/aralde/TryModels) | Community-first directory and API designed to bridge the gap between developers and free AI resources. |
 
 ---
 

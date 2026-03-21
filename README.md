@@ -1,3 +1,7 @@
+# Hi, I'm Ariel 👋
+
+📍 **London** | 🤖 AI & Solutions Architect | 🚀 Automation Enthusiast
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -14,8 +18,7 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph">
 </p>
 
-Fullstack Developer and AI Enthusiast, passionate about building efficient tools and exploring the latest in technology. I love creating software that solves real-world problems. 
-Currently working on improving my **AI & Cloud** skills.
+> Deep in vibe-coding mode — exploring the frontiers of AI and building powerful developer tools at ludicrous speed. From Fullstack to Cloud, turning complex problems into elegant, real-world solutions.
 
 ### Current Projects
 
@@ -25,16 +28,12 @@ Currently working on improving my **AI & Cloud** skills.
 - 🌐 [TryModels](https://github.com/aralde/TryModels) - Community-first directory and API designed to bridge the gap between developers and free AI resources.
 - 📖 [AI-102 Study Guide](https://github.com/aralde/AI-102-Azure-AI-Engineer-Associate-Study-Guide) - Comprehensive guide for Azure AI Engineer certification.
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/aralde" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aralde" /></a>
-  <a href="https://twitter.com/aralde" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="aralde" /></a>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/aralde" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aralde" /></a>
-  <a href="https://twitter.com/aralde" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="aralde" /></a>
-</p>
+<!-- ### 📫 Connect with Me -->
 
+<!-- <p align="left">
+  <a href="https://linkedin.com/in/aralde" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aralde" /></a>
+  <a href="https://twitter.com/aralde" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="aralde" /></a>
+</p> -->
 ---
 
 *Last updated: March 2026*

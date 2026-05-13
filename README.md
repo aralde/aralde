@@ -21,7 +21,7 @@
 Exploring the frontiers of AI and building powerful developer tools at ludicrous speed. From Fullstack to Cloud, turning complex problems into elegant, real-world solutions.
 
 ### Projects
-
+- 🔀 [OperatorLM](https://github.com/aralde/operatorlm) - Tiny local LLM proxy: OpenAI-compatible, multi-provider failover, multi-account aliases, ChatGPT Plus as backend. One 11MB binary, no Docker.
 - 🧠 [Tactio](https://github.com/aralde/Tactio) - A powerful productivity utility designed to bring multiple LLMs directly into your workflow.
 - 🖼️ [PurePrompts](https://github.com/aralde/PurePrompts) - A curated community gallery designed to help you extract the absolute best out of LLMs and generative AI.
 - 🎙️ [WhisperHook](https://github.com/aralde/WhisperHook) - Dictate 100% Local & privacy-focused voice typing powered by local AI.

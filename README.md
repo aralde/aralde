@@ -21,6 +21,7 @@
 Exploring the frontiers of AI and building powerful developer tools at ludicrous speed. From Fullstack to Cloud, turning complex problems into elegant, real-world solutions.
 
 ### Projects
+- :) [react-ai-avatar](https://github.com/aralde/react-ai-avatar) - Renders an animated avatar reacting to your AI's conversation.
 - 🔀 [OperatorLM](https://github.com/aralde/operatorlm) - Tiny local LLM proxy: OpenAI-compatible, multi-provider failover, multi-account aliases, ChatGPT Plus as backend. One 11MB binary, no Docker.
 - 🧠 [Tactio](https://github.com/aralde/Tactio) - A powerful productivity utility designed to bring multiple LLMs directly into your workflow.
 - 🖼️ [PurePrompts](https://github.com/aralde/PurePrompts) - A curated community gallery designed to help you extract the absolute best out of LLMs and generative AI.
@@ -30,4 +31,4 @@ Exploring the frontiers of AI and building powerful developer tools at ludicrous
 
 ---
 
-*Last updated: March 2026*
+*Last updated: Jun 2026*

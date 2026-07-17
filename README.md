@@ -21,23 +21,6 @@
 TypeScript · Python · Go · Azure (AI-102 certified)
 ---
 
-## Flagships
-
-### 🔀 [OperatorLM](https://github.com/aralde/operatorlm) — reliability layer for LLM apps
-Local OpenAI-compatible proxy with **real failover between providers**, multi-account
-aliasing, and secrets in the OS keyring. One ~11MB binary, no Docker. Windows/macOS/Linux.
-
-[Download a release →](https://github.com/aralde/operatorlm/releases)
-
-### 🗣️ [react-ai-avatar](https://github.com/aralde/react-ai-avatar) — a face for your AI
-One React component that visibly listens, thinks and speaks. Provider-agnostic,
-no backend, MIT. On [npm](https://www.npmjs.com/package/react-ai-avatar) ·
-[live demo](https://react-ai-avatar-site.vercel.app/).
-
-<img src="https://raw.githubusercontent.com/aralde/react-ai-avatar/main/assets/react-avatar-animate.gif" alt="react-ai-avatar animating live: blinking, thinking and speaking" width="240" />
-
----
-
 ### Projects
 - 🤖 [React AI avatar](https://github.com/aralde/react-ai-avatar) - Renders an animated avatar reacting to your AI's conversation.
 - 🔀 [OperatorLM](https://github.com/aralde/operatorlm) - Tiny local LLM gateway proxy: OpenAI-compatible, multi-provider failover, multi-account aliases, ChatGPT Plus as backend. One 11MB binary, no Docker. Portable.

@@ -3,7 +3,7 @@
 **AI Engineer** — building apps, agents and LLM tooling in the open.
 
 <p align="center">
-  <img src="assets/lemmings-stack.svg" alt="Stack: JavaScript, TypeScript, React, Node.js, Python, Azure, GitHub Actions, Codex, Claude, CLI, Web, LangChain, LangGraph" width="100%">
+  <img src="assets/lemmings-stack-transparent.svg" alt="Stack: JavaScript, TypeScript, React, Node.js, Python, Azure, GitHub Actions, Codex, Claude, CLI, Web, LangChain, LangGraph" width="100%">
 </p>
 
 TypeScript · Python · Go · Azure

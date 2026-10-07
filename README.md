@@ -10,6 +10,7 @@ TypeScript · Python · Go · Azure
 ---
 
 ### Projects
+- 🔬 [harnesspatterns.dev](https://harnesspatterns.dev/) - Agent Harness Patterns — How AI agents work, explained with retro games. 
 - 🧬 [AstorLM](https://github.com/aralde/astorLM) - Embeddable, SDK-first agentic library for TypeScript — multi-providers, MCP, built-in tools, sessions, hooks.
 - 🤖 [React AI avatar](https://github.com/aralde/react-ai-avatar) - Renders an animated avatar reacting to your AI's conversation.
 - 🔀 [OperatorLM](https://github.com/aralde/operatorlm) - Tiny local LLM gateway proxy: OpenAI-compatible, multi-provider failover, multi-account aliases, ChatGPT Plus as backend. One 11MB binary, no Docker. Portable.
